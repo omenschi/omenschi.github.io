@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omenschi.github.io/sitemap
+Sitemap: https://omenschi.github.io/app/sitemap
+Sitemap: https://omenschi.github.io/assets/sitemap
+Sitemap: https://omenschi.github.io/css/sitemap
+Sitemap: https://omenschi.github.io/includes/sitemap
+Sitemap: https://omenschi.github.io/item/sitemap
+Sitemap: https://omenschi.github.io/src/sitemap
